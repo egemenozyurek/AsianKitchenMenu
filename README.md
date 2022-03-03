@@ -1,2 +1,2 @@
 # AsianKitchenMenu
-![Clone](https://github.com/egemenozyurek/AsianKitchensMenu/blob/main/gif.gif)
+![Clone](https://github.com/egemenozyurek/AsianKitchensMenu/blob/master/gif.gif)
